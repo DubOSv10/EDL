@@ -6,5 +6,7 @@
 *.thefoliosociety.com
 .williams.edu
 *.williams.edu
-.google.com
-*.google.com
+.economist.com
+.theeconomist.com
+*.economist.com
+*.theeconomist.com
